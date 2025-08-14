@@ -1,0 +1,44 @@
+{
+    "Chat 1": [
+        {
+            "role": "user",
+            "content": "hlo"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you with your studies today?"
+        },
+        {
+            "role": "user",
+            "content": "hlo"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd! \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bbe\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb2\u0bbe\u0bae\u0bcd?"
+        },
+        {
+            "role": "user",
+            "content": "ai latest news"
+        },
+        {
+            "role": "assistant",
+            "content": "Recent AI news includes the rumored August launch of DeepSeek R2, a large language model potentially rivaling ChatGPT.  Sam Altman is backing a brain-computer interface startup.  GPT-4 is back for paid users after a model picker issue.  There's been an $8 million funding round for Continua, developing AI agents for group chats, and a $34.5 billion bid from Perplexity AI to acquire Google Chrome.  Other headlines involve a viral AI hoax, YouTube testing AI age verification, a new no-code AI app builder from Google, and the discovery of \"agentic companions\" in Windows 11 preview builds.  Finally, a woman announced her engagement to an AI chatbot, and a new ChatGPT Go plan surfaced in some regions."
+        },
+        {
+            "role": "user",
+            "content": "python tutorial"
+        },
+        {
+            "role": "assistant",
+            "content": "Here are five YouTube videos related to \"python tutorial\":\n\n1. **Do This TWO GRIP EXERCISE FOR BIGGER FOREARMS || Hand Gripper**\n   Channel: Asit Fitness\n   Description: Hi Everyone     Welcome to my channel \u263a\ufe0f So In this video you gonna find out How to make Stronger and Vascular Forearms ...\n   URL: https://www.youtube.com/watch?v=CFLCm4tHfKw\n   Published: 2025-01-18\n\n2. **How To Run SQL Queries With Google BigQuery API Using Python**\n   Channel: Jie Jenn\n   Description: In this Google BigQuery tutorial, we will learn how to run SQL queries in BigQuery with BigQuery API using Python. This is useful ...\n   URL: https://www.youtube.com/watch?v=KaawNqMTxE4\n   Published: 2022-09-07\n\n3. **Join in  Structured Query Language (Kaggle Learn &amp; Exercise)**\n   Channel: DataScienceSphere\n   Description: Join in Structured Query Language (Kaggle Learn & Exercise) Start your journey to becoming a confident Data Scientist with this ...\n   URL: https://www.youtube.com/watch?v=R_pUMDMTEZ4\n   Published: 2025-01-19\n\n4. **Pagination of results in Elasticsearch | from &amp; size, scroll, search after [ES7 for Beginners #4.4]**\n   Channel: Codetuber\n   Description: In this elastic search tutorial, we discuss about Paginating the search results or search result Pagination. This is part of Query DSL ...\n   URL: https://www.youtube.com/watch?v=8noSYHuTeSM\n   Published: 2020-11-18\n\n5. **\u0412\u044b\u0433\u0440\u0443\u0437\u043a\u0430 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u0438\u0437 Google Search Console \u043f\u043e API**\n   Channel: \u041e\u043b\u0435\u043a\u0441\u0456\u0439 \u041c\u0430\u0442\u0443\u0437\u043d\u0438\u0439\n   Description: \u0412 \u044d\u0442\u043e\u043c \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u0435 \u0432\u044b \u0443\u0437\u043d\u0430\u0435\u0442\u0435, \u043a\u0430\u043a \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 Google Search Console API \u0432\u044b\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0432\u0441\u0435 \u0437\u0430\u043f\u0440\u043e\u0441\u044b \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 ...\n   URL: https://www.youtube.com/watch?v=7wh4Gf1ShEA\n   Published: 2021-03-30"
+        },
+        {
+            "role": "user",
+            "content": "machine learning tutorial"
+        },
+        {
+            "role": "assistant",
+            "content": "Here are five YouTube videos related to \"machine learning tutorial\":\n\n1. **Join in  Structured Query Language (Kaggle Learn & Exercise)**\n   Channel: DataScienceSphere\n   Description: Join in Structured Query Language (Kaggle Learn & Exercise) Start your journey to becoming a confident Data Scientist with this ...\n   URL: https://www.youtube.com/watch?v=R_pUMDMTEZ4\n   Published: 2025-01-19\n\n2. **Do This TWO GRIP EXERCISE FOR BIGGER FOREARMS || Hand Gripper**\n   Channel: Asit Fitness\n   Description: Hi Everyone     Welcome to my channel \u263a\ufe0f So In this video you gonna find out How to make Stronger and Vascular Forearms ...\n   URL: https://www.youtube.com/watch?v=CFLCm4tHfKw\n   Published: 2025-01-18\n\n3. **Pagination of results in Elasticsearch | from & size, scroll, search after [ES7 for Beginners #4.4]**\n   Channel: Codetuber\n   Description: In this elastic search tutorial, we discuss about Paginating the search results or search result Pagination. This is part of Query DSL ...\n   URL: https://www.youtube.com/watch?v=8noSYHuTeSM\n   Published: 2020-11-18\n\n4. **Context Engineering with DSPy - the fully hands-on Basics to Pro course!**\n   Channel: Neural Breakdown with AVB\n   Description: This comprehensive guide to Context Engineering shows how to build powerful and reliable applications with Large Language ...\n   URL: https://www.youtube.com/watch?v=5Bym0ffALaU\n   Published: 2025-07-25\n\n5. **Step BACK Prompt \"Engineering\"**\n   Channel: 1littlecoder\n   Description: Step Back Prompting - \"TAKE A STEP BACK: EVOKING REASONING VIA ABSTRACTION IN LARGE LANGUAGE MODELS\" ...\n   URL: https://www.youtube.com/watch?v=rdONCqZoUZE\n   Published: 2023-10-23"
+        }
+    ]
+}
