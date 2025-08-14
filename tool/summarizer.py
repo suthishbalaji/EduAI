@@ -12,7 +12,7 @@ def summarize_chat(chat_history: str) -> str:
     """
     try:
         # Use a smaller, more efficient model for summarization
-        summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", device_map="auto")
+        summarizer = pipeline("summarization", model="ibm-granite/granite-3.3-2b-instruct", device_map="auto")
 
         # Generate the summary
         # Ensure the input text is not excessively long for the model
